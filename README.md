@@ -1,0 +1,2 @@
+# groupinger
+Generate groups
